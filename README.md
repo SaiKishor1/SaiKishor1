@@ -1,5 +1,5 @@
 # 💫 About Me:
-DevOps Enthusiast
+DevOps Engineer
 
 
 ## 🌐 Socials:
